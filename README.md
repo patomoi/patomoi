@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patomoi
 - 👀 I’m interested in ... Electronics, Radio, Computers, Videogames, Music
-- 🌱 I’m currently learning ... Arduino
+- 🌱 I’m currently learning ... Programming
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
 
