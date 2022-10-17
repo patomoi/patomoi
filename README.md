@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @patomoi
+- 👋 Hi, I’m @patomoi From chile
+- Amateur radio callsign CA2PEY
 - 👀 I’m interested in ... Electronics, Radio, Computers, Videogames, Music
-- 🌱 I’m currently learning ... Programming
+- 🌱 I’m currently learning ... Programming 
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 📫 How to reach me ... moixpfxft@gmail.com
 
 <!---
 patomoi/patomoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
