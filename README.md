@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @patomoi From chile
-- Amateur radio callsign CA2PEY
+- Amateur radio callsign CE2PEY
 - 👀 I’m interested in ... Electronics, Radio, Computers, Videogames, Music
 - 🌱 I’m currently learning ... Programming 
 - 💞️ I’m looking to collaborate on ... 
